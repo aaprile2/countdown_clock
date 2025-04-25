@@ -5,5 +5,5 @@ Functional real-time countdown clock, with the goals of practicing CAD, solderin
 - Designed an enclosure using Fusion 360; includes openings for LCD display and four LEDs with holders
 - Assembled using 3D-printed enclosure, solder, and hot glue
 
-![image](exterior_assembled)
+![image](exterior_assembled.png)
 ![image](interior_assembled.png)
